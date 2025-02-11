@@ -3,7 +3,11 @@
 /* COLOR KATAS */
 
 /* No Prompt */
-
+/* Var Alert */
+// make a string variable for a color, set it equal to your favorite
+var color="red";
+// alert the message" "My favorite color is " plus the color
+alert("My favorite color is: " + color);
 
 /* Prompt */
 
